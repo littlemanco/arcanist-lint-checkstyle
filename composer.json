@@ -1,0 +1,33 @@
+{
+    "name": "littlemanco/arcanist-lint-checkstyle",
+    "description": "A package that extends Arcanist lints to support checkstyle output",
+    "type": "library",
+    "homepage": "https://github.com/littlemanco/arcanist-lint-checkstyle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Howden",
+            "email": "hello@andrewhowden.com",
+            "homepage": "https://www.andrewhowden.com/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "hello@andrewhowden.com",
+        "issues": "https://github.com/littlemanco/arcanist-lint-checkstyle/issues",
+        "wiki": "https://github.com/littlemanco/arcanist-lint-checkstyle/wiki",
+        "source": "https://github.com/littlemanco/arcanist-lint-checkstyle"
+    }, 
+    "require": {
+    },
+    "require-dev": {
+    },
+    "archive": {
+        "exclude": [
+            "test",
+            "hack",
+            "hooks",
+            ".arclint"
+        ]
+    }
+}
