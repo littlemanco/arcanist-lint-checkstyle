@@ -39,7 +39,7 @@ and interesting to build a parser.
 This tool can be installed with composer:
 
 ```
-$ composer require-dev littlemanco/arcanist-lint-checkstyle
+$ composer require --dev littlemanco/arcanist-lint-checkstyle
 ```
 
 It's available on Packagist, so it should "Just Work"
